@@ -50,13 +50,14 @@ nav li:last-child{
   margin-top:35px;
 }
 .panel{
-      width: 930px;
-      height:600px;
-			float: left;
-			padding-left: 50px;
-			padding-right: 1040px;
-			margin-top: 45px;
-			background: #eee;
+      width:1360px;
+      height:550px;
+	float: left;
+	padding-left: 50px;
+	padding-right: 1040px;
+	margin-top: 45px;
+	background: #eee;
+	box-sizing: border-box;
 }
 
 
