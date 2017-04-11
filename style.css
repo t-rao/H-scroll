@@ -27,7 +27,8 @@ header{
 nav{
   width:60%;
   float:right;
-  margin-top:20px
+  margin-top:20px;
+	  margin-right:50px;
 }
 nav ul{
   width:301px;
@@ -50,9 +51,9 @@ nav li:last-child{
 }
 .panel{
       width: 930px;
-      height:500px;
+      height:600px;
 			float: left;
-			padding-left: 30px;
+			padding-left: 50px;
 			padding-right: 1040px;
 			margin-top: 45px;
 			background: #eee;
